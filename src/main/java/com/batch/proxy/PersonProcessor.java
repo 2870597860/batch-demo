@@ -1,4 +1,4 @@
-package com.batch.configurtion;
+package com.batch.proxy;
 
 import com.batch.entity.Person;
 import org.slf4j.Logger;
