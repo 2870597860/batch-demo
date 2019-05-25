@@ -1,6 +1,6 @@
 package com.batch;
 
-import com.batch.configurtion.SimpleBatchConfiguration;
+import com.batch.configurtion.support.SimpleBatchConfiguration;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.batch.core.Job;

@@ -1,6 +1,6 @@
 package com.batch.service;
 
-import com.batch.configurtion.SimpleBatchConfiguration;
+import com.batch.configurtion.support.SimpleBatchConfiguration;
 import com.batch.entity.Path;
 import org.springframework.batch.core.Job;
 import org.springframework.batch.core.JobParameters;
