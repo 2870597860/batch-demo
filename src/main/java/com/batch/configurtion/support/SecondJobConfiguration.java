@@ -1,10 +1,7 @@
 package com.batch.configurtion.support;
 
 import com.batch.entity.Person;
-import com.batch.configurtion.listener.JobListener;
 import com.batch.proxy.PersonProcessor;
-import com.batch.writer.FileItemWriter1;
-import com.batch.writer.FileItemWriter2;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.batch.core.Job;
@@ -20,6 +17,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 import javax.annotation.Resource;
+import javax.batch.api.listener.JobListener;
 
 import java.util.ArrayList;
 import java.util.List;

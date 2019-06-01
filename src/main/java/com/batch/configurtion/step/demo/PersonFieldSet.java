@@ -1,5 +1,6 @@
-package com.batch.configurtion.common;
+package com.batch.configurtion.step.demo;
 
+import com.batch.configurtion.step.reader.rule.BaseFieldSet;
 import com.batch.entity.Person;
 import org.springframework.batch.item.file.transform.FieldSet;
 

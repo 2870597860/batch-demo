@@ -1,4 +1,4 @@
-package com.batch.configurtion.common;
+package com.batch.configurtion.step.reader.rule;
 
 import org.springframework.batch.item.file.LineMapper;
 import org.springframework.batch.item.file.mapping.FieldSetMapper;

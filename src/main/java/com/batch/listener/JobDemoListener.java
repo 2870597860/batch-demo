@@ -1,4 +1,4 @@
-package com.batch.configurtion.listener;
+package com.batch.listener;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -11,8 +11,8 @@ import org.springframework.stereotype.Component;
 import javax.annotation.Resource;
 
 @Component
-public class JobListener implements JobExecutionListener {
-    private static final Logger logger = LoggerFactory.getLogger(JobListener.class);
+public class JobDemoListener implements JobExecutionListener {
+    private static final Logger logger = LoggerFactory.getLogger(JobDemoListener.class);
     @Resource
     private ThreadPoolTaskExecutor threadPoolTaskExecutor;
     private long startTime;

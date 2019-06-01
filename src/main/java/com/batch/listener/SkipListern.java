@@ -1,4 +1,4 @@
-package com.batch.configurtion.listener;
+package com.batch.listener;
 
 import org.springframework.batch.core.SkipListener;
 

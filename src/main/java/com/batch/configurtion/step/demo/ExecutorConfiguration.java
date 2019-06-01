@@ -1,4 +1,4 @@
-package com.batch.configurtion.common;
+package com.batch.configurtion.step.demo;
 
 import org.springframework.beans.factory.config.ConfigurableBeanFactory;
 import org.springframework.context.annotation.Bean;

@@ -1,4 +1,4 @@
-package com.batch.configurtion.common;
+package com.batch.configurtion.step.reader.rule;
 
 import org.springframework.batch.item.file.mapping.FieldSetMapper;
 import org.springframework.batch.item.file.transform.FieldSet;
@@ -12,5 +12,5 @@ public abstract class BaseFieldSet<T> implements FieldSetMapper<T> {
         setObjProperties(fieldSet);
         return t;
     }
-    abstract void setObjProperties(FieldSet fieldSet);
+    protected abstract void setObjProperties(FieldSet fieldSet);
 }
