@@ -1,7 +1,7 @@
 package com.batch.controller;
 
-import com.batch.entity.Path;
-import com.batch.service.JobService;
+import com.batch.real.entity.Path;
+import com.batch.real.service.JobService;
 import com.google.gson.Gson;
 import org.springframework.batch.core.Job;
 import org.springframework.stereotype.Controller;
