@@ -22,9 +22,9 @@ public class SecurityFieldSet extends BaseFieldSet<Security> {
     @Override
     public Security setObjProperties(FieldSet fieldSet) {
         fieldSet.getFieldCount();
-        security.setId(fieldSet.readInt(0));
+        /*security.setId(fieldSet.readInt(0));
         security.setName(fieldSet.readString(1));
-        security.setAge(fieldSet.readInt(2));
+        security.setAge(fieldSet.readInt(2));*/
         return security;
     }
 }

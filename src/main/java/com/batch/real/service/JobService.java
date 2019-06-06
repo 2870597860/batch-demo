@@ -20,8 +20,6 @@ import javax.annotation.Resource;
 public class JobService implements IJobService{
     @Resource
     JobLauncher jobLauncher;
-    @Resource
-    SimpleBatchConfiguration simpleBatchConfiguration;
 
     @Autowired
     @Qualifier("securityJob")

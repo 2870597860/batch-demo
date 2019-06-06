@@ -14,10 +14,14 @@ import org.springframework.batch.core.Job;
 import org.springframework.batch.core.Step;
 import org.springframework.batch.core.configuration.annotation.*;
 import org.springframework.batch.core.launch.support.RunIdIncrementer;
+import org.springframework.batch.core.launch.support.SimpleJobLauncher;
+import org.springframework.batch.core.repository.JobRepository;
+import org.springframework.batch.core.repository.support.MapJobRepositoryFactoryBean;
 import org.springframework.batch.item.ItemProcessor;
 import org.springframework.batch.item.ItemReader;
 import org.springframework.batch.item.ItemWriter;
 import org.springframework.batch.item.file.FlatFileItemReader;
+import org.springframework.batch.support.transaction.ResourcelessTransactionManager;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.beans.factory.annotation.Value;
@@ -26,6 +30,8 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Scope;
 import org.springframework.core.task.SimpleAsyncTaskExecutor;
 import org.springframework.core.task.TaskExecutor;
+import org.springframework.transaction.PlatformTransactionManager;
+
 import javax.annotation.Resource;
 
 @Configuration("simpleBatchConfiguration")
@@ -101,4 +107,21 @@ public class SimpleBatchConfiguration {
         log.info("taskExecutor:===========================================================");
         return new SimpleAsyncTaskExecutor("spring_batch");
     }
+
+/*    @Bean
+    public PlatformTransactionManager getTransactionManager() {
+        return new ResourcelessTransactionManager();
+    }
+
+    @Bean
+    public JobRepository jobRepository() throws Exception {
+        return new MapJobRepositoryFactoryBean(getTransactionManager()).getObject();
+    }
+
+    @Bean
+    public SimpleJobLauncher jobLauncher(JobRepository jobRepository) {
+        SimpleJobLauncher simpleJobLauncher = new SimpleJobLauncher();
+        simpleJobLauncher.setJobRepository(jobRepository);
+        return simpleJobLauncher;
+    }*/
 }
