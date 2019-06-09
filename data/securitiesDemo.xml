@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Securities xmlns:xsi="http://www.w3.org/2001/XMLSchema-instanceds平安银行">
+<Security>
+<SecurityID>000001  </SecurityID>
+<SecurityIDSource>102</SecurityIDSource>
+<Symbol>平安银行                                    </Symbol>
+<EnglishName>PAB                                     </EnglishName>
+<ISIN>CNE000000040</ISIN>
+<UnderlyingSecurityID>000001  </UnderlyingSecurityID>
+<UnderlyingSecurityIDSource>102</UnderlyingSecurityIDSource>
+<ListDate>19910606</ListDate>
+<SecurityType>1</SecurityType>
+<Currency>CNY </Currency>
+<QtyUnit>1.00</QtyUnit>
+<DayTrading>N</DayTrading>
+<PrevClosePx>14.1000</PrevClosePx>
+<SecurityStatus/>
+<OutstandingShare>17170411366.00</OutstandingShare>
+<PublicFloatShareQuantity>17170245848.00</PublicFloatShareQuantity>
+<ParValue>1.0000</ParValue>
+<GageFlag>Y</GageFlag>
+<GageRatio>0.00</GageRatio>
+<CrdBuyUnderlying>Y</CrdBuyUnderlying>
+<CrdSellUnderlying>Y</CrdSellUnderlying>
+<PriceCheckMode>1</PriceCheckMode>
+<PledgeFlag>N</PledgeFlag>
+<ContractMultiplier/>
+<RegularShare/>
+<QualificationFlag>N</QualificationFlag>
+<QualificationClass>0</QualificationClass>
+<StockParams>
+<IndustryClassification>J66</IndustryClassification>
+<PreviousYearProfitPerShare>1.3900</PreviousYearProfitPerShare>
+<CurrentYearProfitPerShare>0.0000</CurrentYearProfitPerShare>
+<OfferingFlag>N</OfferingFlag>
+<Attribute>0</Attribute>
+<NoProfit>N</NoProfit>
+<WeightedVotingRights>N</WeightedVotingRights>
+</StockParams>
+</Security>
+<Security>
+<SecurityID>000001  </SecurityID>
+<SecurityIDSource>102</SecurityIDSource>
+<Symbol>平安银行                                    </Symbol>
+<EnglishName>PAB                                     </EnglishName>
+<ISIN>CNE000000040</ISIN>
+<UnderlyingSecurityID>000001  </UnderlyingSecurityID>
+<UnderlyingSecurityIDSource>102</UnderlyingSecurityIDSource>
+<ListDate>19910606</ListDate>
+<SecurityType>1</SecurityType>
+<Currency>CNY </Currency>
+<QtyUnit>1.00</QtyUnit>
+<DayTrading>N</DayTrading>
+<PrevClosePx>14.1000</PrevClosePx>
+<SecurityStatus/>
+<OutstandingShare>17170411366.00</OutstandingShare>
+<PublicFloatShareQuantity>17170245848.00</PublicFloatShareQuantity>
+<ParValue>1.0000</ParValue>
+<GageFlag>Y</GageFlag>
+<GageRatio>0.00</GageRatio>
+<CrdBuyUnderlying>Y</CrdBuyUnderlying>
+<CrdSellUnderlying>Y</CrdSellUnderlying>
+<PriceCheckMode>1</PriceCheckMode>
+<PledgeFlag>N</PledgeFlag>
+<ContractMultiplier/>
+<RegularShare/>
+<QualificationFlag>N</QualificationFlag>
+<QualificationClass>0</QualificationClass>
+<StockParams>
+<IndustryClassification>J66</IndustryClassification>
+<PreviousYearProfitPerShare>1.3900</PreviousYearProfitPerShare>
+<CurrentYearProfitPerShare>0.0000</CurrentYearProfitPerShare>
+<OfferingFlag>N</OfferingFlag>
+<Attribute>0</Attribute>
+<NoProfit>N</NoProfit>
+<WeightedVotingRights>N</WeightedVotingRights>
+</StockParams>
+</Security>
+<Security>
+<SecurityID>000001  </SecurityID>
+<SecurityIDSource>102</SecurityIDSource>
+<Symbol>平安银行                                    </Symbol>
+<EnglishName>PAB                                     </EnglishName>
+<ISIN>CNE000000040</ISIN>
+<UnderlyingSecurityID>000001  </UnderlyingSecurityID>
+<UnderlyingSecurityIDSource>102</UnderlyingSecurityIDSource>
+<ListDate>19910606</ListDate>
+<SecurityType>1</SecurityType>
+<Currency>CNY </Currency>
+<QtyUnit>1.00</QtyUnit>
+<DayTrading>N</DayTrading>
+<PrevClosePx>14.1000</PrevClosePx>
+<SecurityStatus/>
+<OutstandingShare>17170411366.00</OutstandingShare>
+<PublicFloatShareQuantity>17170245848.00</PublicFloatShareQuantity>
+<ParValue>1.0000</ParValue>
+<GageFlag>Y</GageFlag>
+<GageRatio>0.00</GageRatio>
+<CrdBuyUnderlying>Y</CrdBuyUnderlying>
+<CrdSellUnderlying>Y</CrdSellUnderlying>
+<PriceCheckMode>1</PriceCheckMode>
+<PledgeFlag>N</PledgeFlag>
+<ContractMultiplier/>
+<RegularShare/>
+<QualificationFlag>N</QualificationFlag>
+<QualificationClass>0</QualificationClass>
+<StockParams>
+<IndustryClassification>J66</IndustryClassification>
+<PreviousYearProfitPerShare>1.3900</PreviousYearProfitPerShare>
+<CurrentYearProfitPerShare>0.0000</CurrentYearProfitPerShare>
+<OfferingFlag>N</OfferingFlag>
+<Attribute>0</Attribute>
+<NoProfit>N</NoProfit>
+<WeightedVotingRights>N</WeightedVotingRights>
+</StockParams>
+</Security>
+<Security>
+<SecurityID>000001  </SecurityID>
+<SecurityIDSource>102</SecurityIDSource>
+<Symbol>平安银行                                    </Symbol>
+<EnglishName>PAB                                     </EnglishName>
+<ISIN>CNE000000040</ISIN>
+<UnderlyingSecurityID>000001  </UnderlyingSecurityID>
+<UnderlyingSecurityIDSource>102</UnderlyingSecurityIDSource>
+<ListDate>19910606</ListDate>
+<SecurityType>1</SecurityType>
+<Currency>CNY </Currency>
+<QtyUnit>1.00</QtyUnit>
+<DayTrading>N</DayTrading>
+<PrevClosePx>14.1000</PrevClosePx>
+<SecurityStatus/>
+<OutstandingShare>17170411366.00</OutstandingShare>
+<PublicFloatShareQuantity>17170245848.00</PublicFloatShareQuantity>
+<ParValue>1.0000</ParValue>
+<GageFlag>Y</GageFlag>
+<GageRatio>0.00</GageRatio>
+<CrdBuyUnderlying>Y</CrdBuyUnderlying>
+<CrdSellUnderlying>Y</CrdSellUnderlying>
+<PriceCheckMode>1</PriceCheckMode>
+<PledgeFlag>N</PledgeFlag>
+<ContractMultiplier/>
+<RegularShare/>
+<QualificationFlag>N</QualificationFlag>
+<QualificationClass>0</QualificationClass>
+<StockParams>
+<IndustryClassification>J66</IndustryClassification>
+<PreviousYearProfitPerShare>1.3900</PreviousYearProfitPerShare>
+<CurrentYearProfitPerShare>0.0000</CurrentYearProfitPerShare>
+<OfferingFlag>N</OfferingFlag>
+<Attribute>0</Attribute>
+<NoProfit>N</NoProfit>
+<WeightedVotingRights>N</WeightedVotingRights>
+</StockParams>
+</Security>
+<Security>
+<SecurityID>000001  </SecurityID>
+<SecurityIDSource>102</SecurityIDSource>
+<Symbol>平安银行                                    </Symbol>
+<EnglishName>PAB                                     </EnglishName>
+<ISIN>CNE000000040</ISIN>
+<UnderlyingSecurityID>000001  </UnderlyingSecurityID>
+<UnderlyingSecurityIDSource>102</UnderlyingSecurityIDSource>
+<ListDate>19910606</ListDate>
+<SecurityType>1</SecurityType>
+<Currency>CNY </Currency>
+<QtyUnit>1.00</QtyUnit>
+<DayTrading>N</DayTrading>
+<PrevClosePx>14.1000</PrevClosePx>
+<SecurityStatus/>
+<OutstandingShare>17170411366.00</OutstandingShare>
+<PublicFloatShareQuantity>17170245848.00</PublicFloatShareQuantity>
+<ParValue>1.0000</ParValue>
+<GageFlag>Y</GageFlag>
+<GageRatio>0.00</GageRatio>
+<CrdBuyUnderlying>Y</CrdBuyUnderlying>
+<CrdSellUnderlying>Y</CrdSellUnderlying>
+<PriceCheckMode>1</PriceCheckMode>
+<PledgeFlag>N</PledgeFlag>
+<ContractMultiplier/>
+<RegularShare/>
+<QualificationFlag>N</QualificationFlag>
+<QualificationClass>0</QualificationClass>
+<StockParams>
+<IndustryClassification>J66</IndustryClassification>
+<PreviousYearProfitPerShare>1.3900</PreviousYearProfitPerShare>
+<CurrentYearProfitPerShare>0.0000</CurrentYearProfitPerShare>
+<OfferingFlag>N</OfferingFlag>
+<Attribute>0</Attribute>
+<NoProfit>N</NoProfit>
+<WeightedVotingRights>N</WeightedVotingRights>
+</StockParams>
+</Security>
+<Security>
+<SecurityID>000001  </SecurityID>
+<SecurityIDSource>102</SecurityIDSource>
+<Symbol>平安银行                                    </Symbol>
+<EnglishName>PAB                                     </EnglishName>
+<ISIN>CNE000000040</ISIN>
+<UnderlyingSecurityID>000001  </UnderlyingSecurityID>
+<UnderlyingSecurityIDSource>102</UnderlyingSecurityIDSource>
+<ListDate>19910606</ListDate>
+<SecurityType>1</SecurityType>
+<Currency>CNY </Currency>
+<QtyUnit>1.00</QtyUnit>
+<DayTrading>N</DayTrading>
+<PrevClosePx>14.1000</PrevClosePx>
+<SecurityStatus/>
+<OutstandingShare>17170411366.00</OutstandingShare>
+<PublicFloatShareQuantity>17170245848.00</PublicFloatShareQuantity>
+<ParValue>1.0000</ParValue>
+<GageFlag>Y</GageFlag>
+<GageRatio>0.00</GageRatio>
+<CrdBuyUnderlying>Y</CrdBuyUnderlying>
+<CrdSellUnderlying>Y</CrdSellUnderlying>
+<PriceCheckMode>1</PriceCheckMode>
+<PledgeFlag>N</PledgeFlag>
+<ContractMultiplier/>
+<RegularShare/>
+<QualificationFlag>N</QualificationFlag>
+<QualificationClass>0</QualificationClass>
+<StockParams>
+<IndustryClassification>J66</IndustryClassification>
+<PreviousYearProfitPerShare>1.3900</PreviousYearProfitPerShare>
+<CurrentYearProfitPerShare>0.0000</CurrentYearProfitPerShare>
+<OfferingFlag>N</OfferingFlag>
+<Attribute>0</Attribute>
+<NoProfit>N</NoProfit>
+<WeightedVotingRights>N</WeightedVotingRights>
+</StockParams>
+</Security>
+<Security>
+<SecurityID>000001  </SecurityID>
+<SecurityIDSource>102</SecurityIDSource>
+<Symbol>平安银行                                    </Symbol>
+<EnglishName>PAB                                     </EnglishName>
+<ISIN>CNE000000040</ISIN>
+<UnderlyingSecurityID>000001  </UnderlyingSecurityID>
+<UnderlyingSecurityIDSource>102</UnderlyingSecurityIDSource>
+<ListDate>19910606</ListDate>
+<SecurityType>1</SecurityType>
+<Currency>CNY </Currency>
+<QtyUnit>1.00</QtyUnit>
+<DayTrading>N</DayTrading>
+<PrevClosePx>14.1000</PrevClosePx>
+<SecurityStatus/>
+<OutstandingShare>17170411366.00</OutstandingShare>
+<PublicFloatShareQuantity>17170245848.00</PublicFloatShareQuantity>
+<ParValue>1.0000</ParValue>
+<GageFlag>Y</GageFlag>
+<GageRatio>0.00</GageRatio>
+<CrdBuyUnderlying>Y</CrdBuyUnderlying>
+<CrdSellUnderlying>Y</CrdSellUnderlying>
+<PriceCheckMode>1</PriceCheckMode>
+<PledgeFlag>N</PledgeFlag>
+<ContractMultiplier/>
+<RegularShare/>
+<QualificationFlag>N</QualificationFlag>
+<QualificationClass>0</QualificationClass>
+<StockParams>
+<IndustryClassification>J66</IndustryClassification>
+<PreviousYearProfitPerShare>1.3900</PreviousYearProfitPerShare>
+<CurrentYearProfitPerShare>0.0000</CurrentYearProfitPerShare>
+<OfferingFlag>N</OfferingFlag>
+<Attribute>0</Attribute>
+<NoProfit>N</NoProfit>
+<WeightedVotingRights>N</WeightedVotingRights>
+</StockParams>
+</Security>
+</Securities>
+</xml>

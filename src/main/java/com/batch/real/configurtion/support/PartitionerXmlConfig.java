@@ -1,3 +1,4 @@
+/*
 package com.batch.real.configurtion.support;
 
 import com.batch.real.configurtion.RangePartitionerXml;
@@ -63,3 +64,4 @@ public class PartitionerXmlConfig {
         return new SimpleAsyncTaskExecutor("spring_batch");
     }
 }
+*/
